@@ -1,4 +1,6 @@
-this is the trial 1 and i have made some changes
+its me aishwarya doing trial2
+    this is the trial 1 and i have made some changes
+    
 class Stack {
     int maxSize;
     int[] stackArray;
