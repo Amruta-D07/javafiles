@@ -3,7 +3,7 @@ its me aishwarya doing trial2
     
 class Stack {
     int maxSize;
-    int[] stackArray;
+    int[] stac
     int top;
 
     // Constructor
